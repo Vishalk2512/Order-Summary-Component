@@ -85,7 +85,6 @@ body {
     color: var(--bright-blue);
     font-weight: 900;
     font-size: 0.85rem;
-    -webkit-tap-highlight-color: transparent;
 }
 .plan-container a:hover {
     text-decoration: none;
@@ -101,7 +100,6 @@ body {
     border-radius: 0.6rem;
     cursor: pointer;
     box-shadow: 2px 7px 20px var(--desaturated-blue);
-    -webkit-tap-highlight-color: transparent;
 }
 .proceed-payment-btn:hover {
     opacity: 0.8;
@@ -114,7 +112,6 @@ body {
     margin-top: 1em;
     width: max-content;
     cursor: pointer;
-    -webkit-tap-highlight-color: transparent;
 }
 .cancel-order-btn:hover {
     color: var(--dark-blue);
